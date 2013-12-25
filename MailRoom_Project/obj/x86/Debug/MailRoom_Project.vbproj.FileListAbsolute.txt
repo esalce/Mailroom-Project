@@ -1,0 +1,493 @@
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\Database\Students.accdb
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Surent497\Dropbox\CITA 450 Team Materials (1)\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.GenerateResource.Cache
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\salce048\Desktop\Mail room\MailRoom_Project\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Surent497\Desktop\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mail_Room With Working Search\MailRoom_Project_Local\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom Project to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.GenerateResource.Cache
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.GenerateResource.Cache
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\salce048\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\salce048\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.GenerateResource.Cache
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+D:\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Desktop\Mailroom to Submit\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Desktop\Mailroom to Submit - Copy\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Desktop\Mailroom to Submit 2-\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Desktop\Mailroom to Submit 2-\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom to Submit 2-\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom to Submit 2-\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Desktop\Mailroom to Submit 2- - Copy\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Desktop\Mailroompackinfo pull\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\bin\Debug\Database\MailRoom.accdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kmarkowski\Documents\My Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Desktop\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Liuiy\Desktop\Fall 2012\CITA 450\Submitted Assignments\Mailroom Tara V2\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom Tara V4\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Desktop\Mailroom Tara V4\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom V5\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom Branches\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\harris909\Desktop\Mailroom V5\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Surent497\Desktop\Mailroom Final\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.manifest
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.application
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe.manifest
+C:\Users\harris909\Dropbox\CITA 450 Team Materials (1)\Mail room Project Area\Mailroom Branches\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.application
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.manifest
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.application
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe.manifest
+C:\Users\harris909\Desktop\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.application
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.manifest
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.application
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe.manifest
+C:\Users\harris909\Desktop\450\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.application
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.manifest
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.application
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.GenerateResource.Cache
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe.manifest
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.application
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.manifest
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.application
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe.manifest
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\test\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.application
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.manifest
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.application
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.GenerateResource.Cache
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe.manifest
+C:\Users\Mike\Dropbox\College\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.application
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\Database\MailRoomMain.accdb
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.manifest
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.application
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.pdb
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.xml
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmCampusLogin.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmEMail.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmLogin.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmMain.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.frmSearch.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.Resources.resources
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe.manifest
+C:\Users\steven762\Dropbox\CITA 450 Team Materials\Mail room Project Area\Mailroom to Submit\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.application
+C:\Users\Eddie\Documents\Dropbox\Mailroom Finale V Dos\MailRoom_Project\bin\Debug\MailRoom_Project.exe.config
+C:\Users\Eddie\Documents\Dropbox\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.vbproj.ResolveComReference.cache
+C:\Users\Eddie\Documents\Dropbox\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.exe
+C:\Users\Eddie\Documents\Dropbox\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.xml
+C:\Users\Eddie\Documents\Dropbox\Mailroom Finale V Dos\MailRoom_Project\obj\x86\Debug\MailRoom_Project.pdb

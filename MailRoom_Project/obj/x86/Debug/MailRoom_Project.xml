@@ -1,0 +1,298 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MailRoom_Project
+</name>
+</assembly>
+<members>
+<member name="M:MailRoom_Project.clsEMail.#ctor(System.String,System.String,System.String,System.Security.SecureString,System.String,System.String,System.String)">
+	<summary>
+ Class Constructor used to configure an instance of the class
+ </summary>
+	<remarks>
+ Revision History:
+ 1.  Create on 14.Nov.2012 By K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.clsEMail.sendMessageTo">
+	<summary>
+ Sets the name of the person that the message is being sent to
+ </summary>
+	<value>String - The EMail address of the person the message is for</value>
+	<returns>String - The EMail address of the recipient that is currently stored</returns>
+	<remarks>
+ Revision History:
+ 1.  Create on 14.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.clsEMail.messageSentFrom">
+	<summary>
+ Sets the name of the person that the message is being sent to
+ </summary>
+	<value>String - The EMail address of the person the message is from</value>
+	<returns>String - The EMail address of the sender that is currently stored</returns>
+	<remarks>
+ Revision History:
+ 1.  Create on 14.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.clsEMail.MessageToSend">
+	<summary>
+ Gets/Sets the message that is to be sent
+ </summary>
+	<value>String - The EMail message</value>
+	<returns>String - The EMail message that is currently stored</returns>
+	<remarks>
+ Revision History:
+ 1.  Create on 14.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.clsEMail.MessageSubject">
+	<summary>
+ Gets/Sets the subject line of the message that is being sent
+ </summary>
+	<value>String - The EMail Subject</value>
+	<returns>String - The EMail subject that is currently stored</returns>
+	<remarks>
+ Revision History:
+ 1.  Create on 14.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.clsEMail.SMTPServerAddress">
+	<summary>
+ Sets the name of the person that the message is being sent to
+ </summary>
+	<value>String - The EMail address of the person the message is for</value>
+	<returns>String - The EMail address of the person that is currently stored</returns>
+	<remarks>
+ Revision History:
+ 1.  Create on 14.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.clsEMail.SMTPUserName">
+	<summary>
+ Gets/Sets the SMTP user name for the domain
+ </summary>
+	<value>String - The username that is to be passed to the domain</value>
+	<returns>String - The password for the specified user to the domain</returns>
+	<remarks>
+ Revision History:
+ 1. Created on 23.Nov.2012 By K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.clsEMail.SMTPPassword">
+	<summary>
+ Sets the SMTP users password for the domain
+ </summary>
+	<value>String - The username that is to be passed to the domain</value>
+	<remarks>
+ Revision History:
+ 1. Created on 23.Nov.2012 By K.Markowski
+ </remarks>
+</member><member name="M:MailRoom_Project.clsEMail.SendEMail">
+	<summary>
+ Send an Email Message to the user 
+ </summary>
+	<remarks>
+ Revision History:
+ 1: Created on 14.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="M:MailRoom_Project.frmEMail.frmEMail_Load(System.Object,System.EventArgs)">
+	<summary>
+ Handles the loading of the email client
+ </summary>
+	<remarks>
+ Revision History:
+ 1. Created on 24.Nov.2012 By K.Markowski
+ </remarks>
+</member><member name="M:MailRoom_Project.frmEMail.btnSend_Click(System.Object,System.EventArgs)">
+	<summary>
+ User clicked the send button
+ </summary>
+	<remarks>
+ Revision History:
+ 1. Created on 25.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="M:MailRoom_Project.frmMain.btnSend_Click(System.Object,System.EventArgs)">
+	<summary>
+ Displays the EMail Client form
+ </summary>
+	<remarks>
+ Revision History:
+ 1. Created on - 
+ 2. code revised to display the email client form 25.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="M:MailRoom_Project.frmMain.populateStudentData">
+	<summary>
+ Poplulates the fields on the form with the student data from the search window
+ </summary>
+	<remarks>
+ Revision Hsitory:
+ 1. Created on 26.Nov.2012 by K.Markowski/A.Surento
+ </remarks>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.PackageInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblConfirmDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblConfirm_localDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblPackageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblRoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblRole_localDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblStudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.PackageInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblConfirmRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblConfirm_localRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblPackageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblRoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblRole_localRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblStudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.PackageInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblConfirmRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblConfirm_localRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblPackageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblRoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblRole_localRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet.tblStudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.PackageInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.tblConfirmTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.tblConfirm_localTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.tblPackageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.tblRoleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.tblRole_localTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.tblStudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MailRoom_Project.MailRoomMainDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MailRoom_Project.MailRoomMainDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MailRoom_Project.MailRoomMainDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager.UpdateAll(MailRoom_Project.MailRoomMainDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MailRoom_Project.MailRoomMainDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:MailRoom_Project.frmSearch.btnAdd_Click(System.Object,System.EventArgs)">
+	<summary>
+ Adds the information to the user screen
+ </summary>
+	<remarks>
+ Revision History:
+ 1. Created on 25.Nov.2012 by K.Markowski
+ </remarks>
+</member><member name="P:MailRoom_Project.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MailRoom_Project.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MailRoom_Project.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
